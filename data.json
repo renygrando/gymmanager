@@ -1,0 +1,39 @@
+{
+  "instructors": [
+    {
+      "avatar_url": "http://globo.com",
+      "name": "Reny",
+      "birth": "1989-11-08",
+      "gender": "M",
+      "services": "crossfit"
+    },
+    {
+      "avatar_url": "http://gmail.com",
+      "name": "Tinho",
+      "birth": "1123-03-08",
+      "gender": "M",
+      "services": "musculação"
+    },
+    {
+      "avatar_url": "http://uol.com.br",
+      "name": "Nathany",
+      "birth": "1995-11-24",
+      "gender": "F",
+      "services": "aeróbico"
+    },
+    {
+      "avatar_url": "http://globo.com",
+      "name": "Edite",
+      "birth": "2020-06-05",
+      "gender": "F",
+      "services": "aeróbico"
+    },
+    {
+      "avatar_url": "http://uol.com.br",
+      "name": "Rose",
+      "birth": "7234-08-09",
+      "gender": "F",
+      "services": "corrida"
+    }
+  ]
+}
