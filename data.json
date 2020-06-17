@@ -8,6 +8,15 @@
       "gender": "M",
       "services": "crossfit",
       "created_at": 1592269483491
+    },
+    {
+      "id": 2,
+      "avatar_url": "http://globo.com",
+      "name": "Reny Grando",
+      "birth": 626486400000,
+      "gender": "M",
+      "services": "crossfit",
+      "created_at": 1592354783770
     }
   ]
 }
