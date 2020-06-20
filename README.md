@@ -1,8 +1,7 @@
-![Foodfy](https://github.com/renygrando/foodfy/blob/master/assets/foodfy2.gif?raw=true)
+![GymManager](https://github.com/renygrando/gymmanager/blob/master/public/assets/gymmanager.gif?raw=true)
 ---
-# O projeto  
+# O projeto  :sunglasses:
 
-:sunglasses:
 
 **|| Gym Manager ||**  Controle de academia 
 
