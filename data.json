@@ -8,15 +8,6 @@
       "gender": "M",
       "services": "crossfit, musculação, natação",
       "created_at": 1592664698927
-    },
-    {
-      "id": 2,
-      "avatar_url": "http://gmail.com",
-      "name": "Roseneide",
-      "birth": 208396800000,
-      "gender": "F",
-      "services": "Crossfit, Natação, Boxe",
-      "created_at": 1592750324043
     }
   ]
 }
