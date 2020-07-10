@@ -1,13 +1,22 @@
 {
   "instructors": [
     {
-      "id": "1",
-      "avatar_url": "https://source.unsplash.com/collection/8969654/500x500",
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1563685804771-db4646719017?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=500",
       "name": "Reny Adelino Grando",
       "birth": 626486400000,
       "gender": "M",
-      "services": "crossfit, musculação, natação",
+      "services": "Crossfit, Musculação, Natação",
       "created_at": 1592664698927
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "Pipoca da Silva Sauro",
+      "birth": 807926400000,
+      "gender": "M",
+      "services": "Musculação",
+      "created_at": 1594170410996
     }
   ]
 }
