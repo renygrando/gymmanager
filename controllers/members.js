@@ -12,6 +12,7 @@ exports.create = (req, res) => {
     return res.render("members/create")
 }
 
+
 exports.post = (req, res) => {
     
     const keys = Object.keys(req.body)
