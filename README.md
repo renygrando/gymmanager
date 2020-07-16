@@ -2,9 +2,7 @@
 ---
 # O projeto  :sunglasses:
 
-
 **|| Gym Manager ||**  Controle de academia 
-
 
 # Principais aprendizados
 
