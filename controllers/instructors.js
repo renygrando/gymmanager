@@ -41,7 +41,7 @@ exports.post = (req, res) => {
 
         if (err) return res.send("ERRO!")
 
-        return res.redirect("/instructors")
+        return res.redirect(`/instructors/${id}`)
     })
 }
 
@@ -76,7 +76,7 @@ exports.edit = (req, res) => {
 
     const instructors = {
         ...foundInstructor,
-        birth: date(foundInstructor.birth)
+        birth: date(foundInstructor.birth).iso
     }
 
     return res.render("instructors/edit", { instructors })
