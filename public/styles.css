@@ -124,12 +124,13 @@ header {
     font-size: 12px;
 }
 /* FORM */
-input {
+input, select {
     width: 100%;
     outline: none;
     color: #555;
     font-weight: bold;
-    font-size: 18px
+    font-size: 18px;
+    background-color: #FFF;
 }
 input[type="radio"] {
     width: initial;
