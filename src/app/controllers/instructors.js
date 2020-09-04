@@ -1,7 +1,12 @@
-const fs = require('fs')
-const data = require('../data.json')
 const Intl = require('intl')
-const { age, date } = require("../utils")
+const { age, date } = require("../../lib/utils")
+
+module.exports = {
+    index: function(req, res) {
+
+    },
+    cre
+}
 
 exports.index = (req, res) => {
     return res.render("instructors/index", {instructors: data.instructors})
