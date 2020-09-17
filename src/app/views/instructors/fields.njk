@@ -1,19 +1,19 @@
 <div class="item">
     <div>Avatar URL</div>
     <div>
-        <input type="url" name="avatar_url" placeholder="http://" value="{{ instructors.avatar_url }}">
+        <input type="url" name="avatar_url" placeholder="http://" value="{{ instructor.avatar_url }}">
     </div>
 </div>
 <div class="item">
     <div>Instrutor</div>
     <div>
-        <input type="text" name="name" placeholder="Nome do instrutor" value="{{ instructors.name }}">
+        <input type="text" name="name" placeholder="Nome do instrutor" value="{{ instructor.name }}">
     </div>
 </div>
 <div class="item">
     <div>Data de nascimento</div>
     <div>
-        <input type="date" name="birth" value="{{ instructors.birth }}">
+        <input type="date" name="birth" value="{{ instructor.birth }}">
     </div>
 </div>
 <div class="item">
@@ -21,14 +21,14 @@
     <div>
         <span>
             <input type="radio" name="gender" value="M"
-            {% if instructors.gender =='M' %} checked
+            {% if instructor.gender =='M' %} checked
             {% endif %}}
             >
             Masculino
         </span>
         <span>
             <input type="radio" name="gender" value="F"
-            {% if instructors.gender =='F' %} checked
+            {% if instructor.gender =='F' %} checked
             {% endif %}}
             >
             Feminino
@@ -39,7 +39,7 @@
     <div>Área de atuação
     </div>
     <div>
-        <input type="text" name="services" placeholder="Separe os serviços prestados por vírgula" value="{{ instructors.services }}">
+        <input type="text" name="services" placeholder="Separe os serviços prestados por vírgula" value="{{ instructor.services }}">
     </div>
 </div>
 <button type="submit">Salvar</button>
