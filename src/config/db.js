@@ -1,5 +1,5 @@
 const { Pool } = require("pg")
-
+//utilizando banco de dados postgreesql
 module.exports = new Pool ({
     user: "renygrando",
     password: "renygrando",
